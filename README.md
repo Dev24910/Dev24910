@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Sarthak Agrawal
+- 👀 I’m interested in AI, machine learning, and deep learning, particularly in Kaggle competitions and cutting-edge model development.
+- 🌱 I’m currently learning advanced NLP techniques, Computer Vision, LLMs, and how to push the boundaries in AI-driven competitions.
+- 💞️ I’m looking to collaborate on innovative AI projects, Kaggle competitions, and IoT-related developments.
+- 📫 How to reach me: Sarthak24910@gmaill.com or find me on GitHub!
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love solving real-world challenges with AI and have a passion for exoplanet data analysis!
