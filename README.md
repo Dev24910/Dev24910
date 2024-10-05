@@ -17,7 +17,8 @@
 
 - 📫 How to reach me **Email: Sarthak24910@gmail.com**
 
-- ⚡ Fun fact **I trained my first neural network before I learned how to drive! And yes, my code runs faster than my internet connection 🚀.**
+- ⚡ Fun fact
+-  **I trained my first neural network before I learned how to drive! And yes, my code runs faster than my internet connection 🚀.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
