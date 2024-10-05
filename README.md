@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Agrawal</h1>
 <h3 align="center">💻 AI enthusiast aspiring to become a researcher; Kaggle competitor. Able in deep learning, transformers, solving real-life problems through cutting-edge technology.</h3>
+<img align="right" alt="Coding" width="400" 
+src="https://camo.githubusercontent.com/ece357fa621e26f68d7735b3ed8a5e71e4095becee37d6d8c7d914405bcec0d7/68747470733a2f2f6d617274696e76616c64612e636f6d2f696d672f61626f75742e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev24910&label=Profile%20views&color=0e75b6&style=flat" alt="dev24910" /> </p>
 
