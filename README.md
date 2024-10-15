@@ -7,15 +7,17 @@ src="https://camo.githubusercontent.com/ece357fa621e26f68d7735b3ed8a5e71e4095bec
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- # 🔭 I’m currently working on
+- 🔭 I’m currently working on
 - **Transformers, LLMs**
 
-- # 🌱 I’m currently learning
+- 🌱 I’m currently learning
 - 1. **PyTorch for building custom deep learning models** 
 - 2. **Fine Tuning LLMs** 
 - 3. **RAG And Vector Databases**
 
-- 👯 I’m looking to collaborate on **AI Research Projects using deep learning, NLP, and computer vision techniques and Kaggle Competitions**
+- 👯 I’m looking to collaborate on
+- 1. **AI Research Projects using deep learning,**
+- 2. **NLP, and computer vision techniques and Kaggle Competitions**
 
 - 🤝 I’m looking for help with **Building advanced transformer models , learning about LLMs**
 
