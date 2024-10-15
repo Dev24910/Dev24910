@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sarthak Agrawal</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Agrawal´◡`</h1>
 <h3 align="center">💻 AI enthusiast aspiring to become a researcher; Kaggle competitor. Able in deep learning, transformers, solving real-life problems through cutting-edge technology.</h3>
 <img align="right" alt="Coding" width="400" 
 src="https://camo.githubusercontent.com/ece357fa621e26f68d7735b3ed8a5e71e4095becee37d6d8c7d914405bcec0d7/68747470733a2f2f6d617274696e76616c64612e636f6d2f696d672f61626f75742e676966">
@@ -19,14 +19,19 @@ src="https://camo.githubusercontent.com/ece357fa621e26f68d7735b3ed8a5e71e4095bec
 - 1. **AI Research Projects using deep learning,**
 - 2. **NLP, and computer vision techniques and Kaggle Competitions**
 
-- 🤝 I’m looking for help with **Building advanced transformer models , learning about LLMs**
+- 🤝 I’m looking for help with
+- 1. **Building advanced transformer models**
+- 2. **learning about LLMs**
 
-- 💬 Ask me about **Machine Learning competitions (Kaggle) Deep Learning frameworks like PyTorch , Transformers and their applications in NLP**
+- 💬 Ask me about
+- 1. **Machine Learning competitions (Kaggle)**
+- 2. **Deep Learning frameworks like PyTorch** 
+- 3. **Transformers and their applications in NLP**
 
 - 📫 How to reach me **Email: Sarthak24910@gmail.com**
 
-- ⚡ Fun fact **I trained my first neural network before I learned how to drive! And yes, my code runs faster than my internet connection 🚀.**
-
+- ⚡ Fun fact **I trained my first neural network before I learned how to drive! And yes, my code runs faster than my internet connection 🚀 😂.**
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/sarthak24910" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sarthak24910" height="30" width="40" /></a>
